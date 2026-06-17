@@ -1,3 +1,8 @@
+---
+name: python-automation-scripts
+description: Python自动化脚本集 — 文件批处理、邮件自动化、爬虫框架、定时任务
+---
+
 ## python-automation-scripts
 
 Python自动化脚本集 — 文件批处理、邮件自动化、爬虫框架、定时任务
